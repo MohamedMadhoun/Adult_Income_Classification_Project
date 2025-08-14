@@ -46,7 +46,7 @@ You can install them using:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imblearn tensorflow
 
-
+```
 ** 📊 Results**
 
 The final classification_report and confusion_matrix demonstrate the model's performance on the test dataset. The plot_history graph also illustrates how the model's accuracy and loss evolved during the training phases.
